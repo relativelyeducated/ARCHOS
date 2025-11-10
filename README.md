@@ -6,7 +6,7 @@
 [![Status: Validated](https://img.shields.io/badge/Status-Validated-success)](experiments/)
 [![Experiments: 5/5](https://img.shields.io/badge/Experiments-5%2F5-brightgreen)](experiments/)
 
-![Ancient Gods and Religious Traditions](gods.jpg)
+![Ancient Gods and Religious Traditions](thedfglobal.jpg)
 
 ---
 
