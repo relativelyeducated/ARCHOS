@@ -413,6 +413,6 @@ This experiment establishes the **empirical foundation** for Dialectical Fractal
 **Result**: D₂ = 1.46 ± 0.07 (measured) vs. 1.45 ± 0.10 (predicted)
 **Conclusion**: **THEORY CONFIRMED**
 
-**Analyst**: Jason King (Jackie Junaid)
+**Analyst**: Jason King
 **License**: CC-BY 4.0
 **Repository**: https://github.com/relativelyeducated/dialectical-fractal-theory

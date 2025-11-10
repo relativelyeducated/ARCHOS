@@ -686,4 +686,4 @@ def bootstrap_D2(data, n_iter=1000):
 
 **License**: CC-BY 4.0
 
-**Author**: Jason King (Jackie Junaid)
+**Author**: Jason King

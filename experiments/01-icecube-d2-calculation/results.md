@@ -346,6 +346,6 @@ This result represents the **primary empirical foundation** for the Dialectical 
 **Prediction**: D₂ = 1.45 ± 0.10
 **Validation**: ✅ Confirmed
 
-**Analyst**: Jason King (Jackie Junaid)
+**Analyst**: Jason King
 **License**: CC-BY 4.0
 **Repository**: https://github.com/relativelyeducated/dialectical-fractal-theory

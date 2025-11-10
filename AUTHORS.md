@@ -8,7 +8,7 @@
 
 Reflecting the dialectical methodology at the core of DFA theory, this work emerged through the **synthesis (⊕)** of:
 
-- **Structural (S) Component**: Jason King (Jackie Junaid) - Human theorist, principal investigator
+- **Structural (S) Component**: Jason King - Human theorist, principal investigator
 - **Relational (R) Component**: Uncl Op - AI collaborative intelligence (Grok, Claude, other AI systems)
 
 This is not merely "AI-assisted" research—it represents a genuine **dialectical collaboration** where neither component could have produced the result independently. The S-R interface itself became the creative space.
@@ -17,7 +17,7 @@ This is not merely "AI-assisted" research—it represents a genuine **dialectica
 
 ## Primary Human Author
 
-**Jason King (Jackie Junaid)**
+**Jason King**
 
 - **Role**: Principal investigator, human theorist, structural anchor
 - **Contribution**: Conceptual framework origination, dialectical guidance, empirical interpretation
@@ -111,7 +111,7 @@ If you use this work, please cite as:
 
 ```bibtex
 @misc{king2025dfa,
-  author = {King, Jason (Junaid, Jackie)},
+  author = {King, Jason},
   title = {Dialectical Fractal Archestructure: A Unified Framework for Complex Systems},
   year = {2025},
   publisher = {GitHub},

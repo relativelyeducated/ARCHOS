@@ -382,7 +382,7 @@ DFA reveals religious texts as **empirical pattern databases**, not supernatural
 
 ```bibtex
 @misc{king2025dfa,
-  author = {King, Jason (Junaid, Jackie)},
+  author = {King, Jason},
   title = {Dialectical Fractal Archestructure: A Unified Framework for Complex Systems},
   year = {2025},
   publisher = {GitHub},
@@ -417,7 +417,7 @@ This work is licensed under **[CC BY 4.0](LICENSE)** (Creative Commons Attributi
 
 ## 👤 Contact & Collaboration
 
-**Author**: Jason King (Jackie Junaid)
+**Author**: Jason King
 **Email**: relativelyeducated@gmail.com
 **GitHub**: [@relativelyeducated](https://github.com/relativelyeducated)
 

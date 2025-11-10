@@ -370,6 +370,6 @@ This timeline serves as both **historical record** and **methodological template
 
 **License**: CC-BY 4.0
 
-**Author**: Jason King (Jackie Junaid)
+**Author**: Jason King
 
 **Repository**: https://github.com/relativelyeducated/dialectical-fractal-theory

@@ -882,6 +882,6 @@ For full derivations and physical context, see:
 
 **Document Version**: 1.0
 **Last Updated**: November 7, 2025
-**Author**: Jason King (Jackie Junaid)
+**Author**: Jason King
 **License**: CC-BY 4.0
 **Repository**: https://github.com/relativelyeducated/dialectical-fractal-theory

@@ -241,6 +241,6 @@ This **prediction-first** methodology represents genuine forecasting, not post-h
 **Measured Value**: D₂ = 1.46 ± 0.07
 **Status**: ✅ **CONFIRMED**
 
-**Author**: Jason King (Jackie Junaid)
+**Author**: Jason King
 **Theory**: Dialectical Fractal Archestructure (DFA)
 **Repository**: https://github.com/relativelyeducated/dialectical-fractal-theory
