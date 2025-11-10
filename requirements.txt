@@ -12,6 +12,9 @@ scikit-learn>=1.0.0
 # Visualization
 matplotlib>=3.4.0
 
+# AI Model Integration
+openai>=1.0.0  # For Moonshot Kimi K2 API (OpenAI-compatible)
+
 # Optional: Enhanced analysis
 # jupyter>=1.0.0  # For notebook interfaces
 # seaborn>=0.11.0  # For statistical plots
