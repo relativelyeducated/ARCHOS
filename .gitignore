@@ -1,0 +1,160 @@
+# ============================================
+# ARCHOS Privacy & Security .gitignore
+# ============================================
+# This file prevents accidental upload of sensitive personal data
+# Last updated: 2025-11-15
+
+# ============================================
+# CRITICAL - CONVERSATION EXPORTS (NEVER COMMIT)
+# ============================================
+# All conversation exports contain personal data and MUST stay local
+conversations/
+data/raw/grok-exports/
+data/raw/claude-exports/
+data/raw/chatgpt-exports/
+**/extracted_conversations.json
+**/extraction_summary.json
+**/*conversation*.json
+**/*export*.json
+
+# Any files with "personal" or "private" in name
+*personal*
+*private*
+*sensitive*
+
+# ============================================
+# LOCAL DEVELOPMENT & SCRATCH
+# ============================================
+# Keep all local development work separate
+local/
+scratch/
+tmp/
+temp/
+*.local
+*.scratch
+working/
+drafts/
+
+# ============================================
+# PYTHON & DATA SCIENCE
+# ============================================
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# ============================================
+# IDE & EDITOR FILES
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ============================================
+# CREDENTIALS & SECRETS
+# ============================================
+*.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*
+*secrets*
+*api_key*
+*apikey*
+config/local.json
+config/secrets.json
+
+# ============================================
+# LARGE MODEL FILES
+# ============================================
+# Never commit trained models or large datasets
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pb
+*.onnx
+models/trained/
+checkpoints/
+
+# ============================================
+# DATABASE FILES
+# ============================================
+*.db-journal
+*.sqlite-wal
+*.sqlite-shm
+# Allow specific research databases but block backups
+*_backup.db
+*_backup.sqlite
+
+# ============================================
+# LOGS & DEBUG
+# ============================================
+logs/
+*.log
+*.log.*
+debug/
+*.debug
+
+# ============================================
+# SYSTEM FILES
+# ============================================
+.git/hooks/local-*
+*.orig
+*.rej
+
+# ============================================
+# EXPERIMENTAL / NOT READY FOR PUBLIC
+# ============================================
+experimental/personal/
+wip/
+not-ready/
+
+# ============================================
+# ALLOWED EXCEPTIONS
+# ============================================
+# These are explicitly allowed despite patterns above:
+# !data/processed/**/*.db  (processed research data is OK)
+# !experiments/**/*.db     (experimental results are OK)
+
+# End of .gitignore
